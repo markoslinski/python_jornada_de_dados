@@ -1,2 +1,2 @@
-# python Jornada de Dados
+# Python Jornada de Dados
 ## Exercícios do treinamento do Luciano Vasconcelos - Jornada de Dados - Engenharia de Dados
